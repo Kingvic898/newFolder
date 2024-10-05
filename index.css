@@ -1,0 +1,33 @@
+* {
+  user-select: none;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  border-style: dotted;
+  border-color: brown;
+  min-height: 14vh;
+  background-color: whitesmoke;
+  color: black;
+}
+ footer{
+    background-image:none;
+    color:blue;
+    height: 14vh;
+    border-style:dot;
+    border-color: chocolate;
+}
+article{
+    border-style: groove;
+    border-width: 1vh;
+    height: 14vh;
+    border-color: aqua;
+    background-color: white;
+    color: blue;
+
+}
+.element{
+    margin:1000px
+}
