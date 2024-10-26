@@ -1,1 +1,3 @@
-addEventListener(x)
+addEventListener(WeakSet);
+
+webebAssembly;
