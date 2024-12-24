@@ -1,0 +1,46 @@
+*{
+  user-select: none;
+  padding:0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.new_web{
+ border: 10px solid;
+ min-height: 100vh;
+
+}
+header{
+min-height: 10vh;
+color:aqua;
+background-color:brown;
+/*css layout */
+
+
+}
+.header-content{
+  min-height: inherit;
+  border: 5px solid;
+  max-width: 1000px;
+  /* center element-without flex(parent) */
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu{
+  border: 2px solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+main{
+  min-height: 80vh;
+  color:aquamarine;
+  background-color:bisque;
+}
+footer{
+  min-height: 10vh;
+  background-color: aqua;
+}
